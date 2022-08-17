@@ -1,3 +1,5 @@
+//Updated by DL on 08/17/22
+
 === WordPress Front-end Editor ===
 
 Contributors: avryl, wordpressdotorg
